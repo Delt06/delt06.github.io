@@ -5,6 +5,6 @@ image: https://images.ctfassets.net/rporu91m20dc/4xqJfIOTLv1EqVLV57t0HD/4e374423
 weight: 2000
 card_width: 85%
 external_url: https://bethesda.net/en/game/starfield
-studio: Bethesda Game Studio
+studio: Bethesda Game Studios
 outsource: Sperasoft
 ---
