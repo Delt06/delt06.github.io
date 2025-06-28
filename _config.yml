@@ -19,7 +19,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Vladislav Kantaev
-  image             : ./assets/photo.JPG
+# image             : ./assets/photo.JPG
   telegram          : DELTation
 # behance           : your_username
 # dribbble          : your_username
@@ -39,6 +39,7 @@ author:
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
+  rss               : ./feed.xml
 
 
 ### Posts ###
