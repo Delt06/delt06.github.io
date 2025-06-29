@@ -5,5 +5,6 @@ image: https://github.com/Delt06/urp-toon-shader-cyberpunk-demo/blob/master/Docu
 description: 🌔 Toon shader for Unity's Universal Render Pipeline.
 external_url: https://github.com/Delt06/urp-toon-shader
 gh_repo: Delt06/urp-toon-shader
-weight: 200
+weight: 50
+card_width: 85%
 ---

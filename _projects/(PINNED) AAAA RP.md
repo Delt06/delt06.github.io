@@ -5,5 +5,6 @@ image: https://github.com/Delt06/aaaa-rp/raw/master/Documentation/Main.jpg?raw=t
 description: 🌟 A Scriptable Render Pipeline (SRP) featuring modern high fidelity rendering techniques.
 external_url: https://github.com/Delt06/aaaa-rp
 gh_repo: Delt06/aaaa-rp
-weight: 50
+weight: 100
+card_width: 85%
 ---
